@@ -1,5 +1,5 @@
 ## Let's start the adventure together: QA blog from where you are to brand new world!
-![Dmitriy Tokarev's card name](https://cardivo.vercel.app/api?name=Dmitriy%20Tokarev&description=Hello,%20there.%20I%27m%20a%20Certified%20Manual%20QA%20Engineer%20at%20financial%20industry.&image=https://user-images.githubusercontent.com/84909251/161111344-95d513a7-4fe3-446e-bf9d-7e3706056069.png&backgroundColor=%23E0E0E0&linkedin=Dmitriy%20Tokarev%20&github=13axiom&pattern=leaf&colorPattern=%23eaeaea)
+![Dmitriy Tokarev's card name](https://cardivo.vercel.app/api?name=Dmitriy%20Tokarev&description=Hello%20there.%20I%27m%20a%20Certified%20Manual%20QA%20Engineer%20at%20financial%20industry.&image=https://user-images.githubusercontent.com/84909251/161111344-95d513a7-4fe3-446e-bf9d-7e3706056069.png&backgroundColor=%23E0E0E0&linkedin=Dmitriy%20Tokarev%20&github=13axiom&pattern=leaf&colorPattern=%23eaeaea)
 
 ### 🧑🏼‍💻 About me
  
