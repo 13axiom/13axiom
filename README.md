@@ -1,8 +1,8 @@
 ### Hi there 👋
-?username=13axiom
 
 [![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=13axiom)](https://github.com/anuraghazra/github-readme-stats)
 
+![Dmitriy'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=13axiom&hide=contribs,prs)
 
 <!--
 **13axiom/13axiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
