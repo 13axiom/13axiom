@@ -1,14 +1,21 @@
-### Hello there!
+![Dmitriy Tokarev's card name](https://cardivo.vercel.app/api?name=Dmitriy%20Tokarev&description=Hello,$20there.%20I%27m%20a%20Certifiedt%20Manual%20QA%20Engineer%20at%20financial%20industry.&image="resources/logo/Quality-Assurance-PNG-Free-Download.png"![5434378](https://user-images.githubusercontent.com/84909251/161111344-95d513a7-4fe3-446e-bf9d-7e3706056069.png)
+&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
 #### Let's start the adventure together: QA blog from where you are to brand new world!
+
+**About me**
+ 
+- 🖐🏻 Certified Manual QA Engineer at the financial industry
+- 🔧 Studying automation with <code>[QA.GURU](https://qa.guru/)</code>
+- 💼 Want to try to live in some Europe country, so i open to suggestions [<img align="center" width="2%" title="Linkedin" src="/resources/logo/linkedinlogo.png">](www.linkedin.com/in/dmitriy-tokarev)
+- 💬 Ask me about anything <code>[here](https://github.com/13axiom/13axiom/issues)</code>
+- 🔜 some climbing project can appear here
 
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=13axiom&hide=contribs,prs&show_icons=true&theme=dracula)
 
-
+name=Dmitriy%20Tokarev&description=Hello,$20there.%20I%27m%20a%20Certifiedt%20Manual%20QA%20Engineer%20at%20financial%20industry.&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
 
 <!--
 **13axiom/13axiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=13axiom)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
