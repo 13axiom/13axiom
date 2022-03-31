@@ -11,20 +11,35 @@
 
 ### ⚙️ Skills && Technologies
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-000)
-![Test Design]
-![Backend]
-![UI]
-![Software testing](https://img.shields.io/badge/-Software%20Testing-000)
-![Test Cases]
-![Quality Assurance]()
+![Java](https://img.shields.io/badge/-Java-111?&logo=Java&logoColor=007396)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-111?&logo=PostgreSQL)
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-111)
+![Software testing](https://img.shields.io/badge/-Software%20Testing-111)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-111?&logo=RabbitMQ)
+![Backend](https://img.shields.io/badge/-Backend-111)
+![UI](https://img.shields.io/badge/-UI-111)
+![Postman](https://img.shields.io/badge/-Postman-111?&logo=Postman)
+![Test Design](https://img.shields.io/badge/-Test%20Design-111)
+![Test Cases](https://img.shields.io/badge/-Test%20Cases-111)
+![Docker](https://img.shields.io/badge/-Docker-111?&logo=Docker)
+![Telegram-bot](https://img.shields.io/badge/-Telegram%20bot-111?&logo=Telegram)
+![Quality Assurance](https://img.shields.io/badge/-Quality%20Assurance-111)
+![SQL](https://img.shields.io/badge/-SQL-111?&logo=MySQL)
+![Bug Tracking](https://img.shields.io/badge/-Bug%20Tracking-111)
+![Redis](https://img.shields.io/badge/-Redis-111?&logo=Redis)
+![Selenide](https://img.shields.io/badge/-Selenide-111?&logo=Selenide)
+![Allure TestOps](https://img.shields.io/badge/-Allure%20TestOps-111)
+![Jenkins](https://img.shields.io/badge/-Jenkins-111?&logo=Jenkins)
+![Gradle](https://img.shields.io/badge/-Gradle-111?&logo=Gradle)
+![Selenoid](https://img.shields.io/badge/-Selenoid-111?&logo=Selenoid)
+![JUnit5](https://img.shields.io/badge/-JUnit5-111?&logo=JUnit5)
+
+
+
+
+
+
+
 
 
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=13axiom&hide=contribs,prs&show_icons=true&theme=dracula)
