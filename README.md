@@ -33,9 +33,9 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-111?&logo=Gradle)
 ![Selenoid](https://img.shields.io/badge/-Selenoid-111?&logo=Selenoid)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-111?&logo=JUnit5)
-![Lombok](https://img.shields.io/badge/-Lombok-111?&logo=Lombok)
-![REST-assured](https://img.shields.io/badge/-REST%20assured-111?&logo=REST assured)
-![Browserstack](https://img.shields.io/badge/-Browserstack-111?&logo=Browserstack)
+![Lombok](https://img.shields.io/badge/-Lombok-111)
+![REST-assured](https://img.shields.io/badge/-REST%20assured-111)
+![Browserstack](https://img.shields.io/badge/-Browserstack-111)
 
 
 
