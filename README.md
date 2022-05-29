@@ -5,7 +5,7 @@
  
 - 🖐🏻 Certified Manual QA Engineer at the financial industry
 - 🔧 Studying automation with <code>[QA.GURU](https://qa.guru/)</code>
-- 💼 Want to try to live in some Europe country, so i open to suggestions [<img align="center" width="2%" title="Linkedin" src="/resources/logo/linkedinlogo.png">](www.linkedin.com/in/dmitriy-tokarev)
+- 💼 Want to try to live in some Europe country, so i open to suggestions [<img align="center" width="2%" title="Linkedin" src="/resources/logo/linkedinlogo.png">](https://www.linkedin.com/in/dmitriy-tokarev)
 - 💬 Ask me about anything <code>[here](https://github.com/13axiom/13axiom/issues)</code>
 - 🔜 some climbing project can appear here
 
